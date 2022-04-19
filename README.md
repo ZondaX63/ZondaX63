@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Junior Web Developer, I have developed many web sites. Skilled in No-code editors, Html/CSS, worked on BootStrap Studio. Student with Engineering Faculty focused in Computer Science from Ataturk University
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://hit.yhype.me/github/profile?user_id=61884303)
 
 ## Connect with me:
 
