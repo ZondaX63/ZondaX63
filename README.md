@@ -7,17 +7,22 @@ Here are some ideas to get you started:
 - 📇 Personal website: **https://zondax63.github.io/**
 - 📫 How to reach me: **https://bit.ly/3BHKFdt**
 
+## Profile 
+
+###
+
+Junior Web Developer, I have developed many web sites. Skilled in No-code editors, Html/CSS, worked on BootStrap Studio. Student with Engineering Faculty focused in Computer Science from Ataturk University
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## Connect with me:
 
-[![website](./twitter-light.svg)](https://twitter.com/uburakguven#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/uburakguven#gh-dark-mode-only)
+[![website](./twitter-light.svg)](https://twitter.com/ZondaX63#gh-light-mode-only)
+[![website](./twitter-dark.svg)](https://twitter.com/ZondaX63#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/uğur-burak-güven-a3381b1a6/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/uğur-burak-güven-a3381b1a6/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/izzet-ayd%C4%B1n-556087203/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/izzet-ayd%C4%B1n-556087203/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://www.instagram.com/uburak.gvn#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://www.instagram.com/uburak.gvn#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
