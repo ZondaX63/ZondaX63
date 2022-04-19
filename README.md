@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🧑‍💻 Knowledge and experience on **Linux** and **Web Design**
 - 🌱 I’m currently learning **JavaScript**, **C#** and **Python**
 - 📇 Personal website: **https://zondax63.github.io/**
 - 📫 How to reach me: **https://bit.ly/3BHKFdt**
 
-## Profile 
 
-###
+## Profile 
 
 Junior Web Developer, I have developed many web sites. Skilled in No-code editors, Html/CSS, worked on BootStrap Studio. Student with Engineering Faculty focused in Computer Science from Ataturk University
 
 ![](https://hit.yhype.me/github/profile?user_id=61884303)
+
 
 ## Connect with me:
 
